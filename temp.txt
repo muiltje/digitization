@@ -1,0 +1,4 @@
+array (
+  'itemnumbers' => '022295;',
+  'messages' => '022295:Boek herkend;022295:Alle scans zijn OK, we kunnen door;',
+)
